@@ -6,6 +6,7 @@ title: FortressCraft
 ## Fortress Craft: Evolved
 
 [Steam](http://store.steampowered.com/app/254200/FortressCraft_Evolved/)
+[Discord](https://discord.gg/fPvnrXs)
 
 FortressCraft has undergone a radical visual alteration, completely reworking the surface, along with a brand-new rendering system. On top of that, there is an enormous amount of work to make the game more understandable and accessible for new players. The combination of these two things should work towards making it feel like a fresh, new experience. Prepare for a new exploration and survival experience!
 
