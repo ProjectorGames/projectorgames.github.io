@@ -13,8 +13,7 @@ NH Veldhoven, Netherlands
 
 ### Latest Game
 
-Fortress Craft
-[Tactics Forever](/games/fortresscraft)
+[Fortress Craft](/games/fortresscraft)
 
 ### Upcoming games
 
