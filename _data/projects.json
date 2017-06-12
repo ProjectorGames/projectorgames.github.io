@@ -1,30 +1,37 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "FortressCraft",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "/games/fortresscraft",
 		"date": "Jan 2014",
 		"tags": ["Angular JS","API"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "Amputea",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "/games/amputea",
 		"date": "May 2014",
 		"tags": ["Android","PHP"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "PizzaBoy",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "/games/pizzaboy",
 		"date": "June 2014",
 		"tags": ["HTML","JQuery","PHP"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "SteamHeroes",
 		"image": "placeholder.jpg",
+		"url": "/games/steamheroes",
+		"date": "Oct 2016",
+		"tags": ["Android","nodejs"]
+	},
+	{
+		"name": "TacticsForever",
+		"image": "placeholder.jpg",
+		"url": "/games/tacticsforever",
 		"date": "Oct 2016",
 		"tags": ["Android","nodejs"]
 	}
-
 ]
