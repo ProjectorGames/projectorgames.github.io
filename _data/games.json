@@ -4,34 +4,34 @@
 		"image": "placeholder.jpg",
 		"url": "/games/fortresscraft",
 		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"tags": ["Windows","Mac","Linux"]
 	},
 	{
 		"name": "Amputea",
 		"image": "placeholder.jpg",
 		"url": "/games/amputea",
 		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"tags": ["Windows"]
 	},
 	{
 		"name": "PizzaBoy",
 		"image": "placeholder.jpg",
 		"url": "/games/pizzaboy",
 		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"tags": ["Android"]
 	},
 	{
 		"name": "SteamHeroes",
 		"image": "placeholder.jpg",
 		"url": "/games/steamheroes",
 		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"tags": ["Windows"]
 	},
 	{
 		"name": "TacticsForever",
 		"image": "placeholder.jpg",
 		"url": "/games/tacticsforever",
 		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"tags": ["Windows","Mac","Linux","Android","iOS"]
 	}
 ]
