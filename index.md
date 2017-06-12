@@ -19,7 +19,11 @@ If you're in The Netherlands or can get there easily, come along and join in the
 
 ### Our latest Game
 
-[Fortress Craft](/games/fortresscraft)
+## [FortressCraft](/games/fortresscraft)
+
+![FortressCraft](public/images/fortresscraft_frozenfactory_banner.png "FortressCraft: Frozen Factory")
+
+The original FortressCraft was one of the best-selling Indie games of all time and in FortressCraft: Evolved we've taken it to he next level. A unique blend of Voxel Landscapes, Tower Defense, Crafting, Logistics, Exploration, Combat and Assembly Lines.
 
 ### Upcoming games
 
