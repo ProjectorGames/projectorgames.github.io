@@ -26,13 +26,13 @@ layout: null
         {% endfor %}
       </item>
     {% endfor %}
-    {% for project in site.data.projects %}
+    {% for game in site.data.games %}
       <item>
-        <title>{{ project.name | xml_escape }}</title>
-        <description>{{ project.name | xml_escape }}</description>
-        <link>{{ project.url | prepend: site.url }}</link>
-        <pubDate>{{ project.date | date_to_rfc822 }}</pubDate>
-        {% for tag in project.tags %}
+        <title>{{ game.name | xml_escape }}</title>
+        <description>{{ game.name | xml_escape }}</description>
+        <link>{{ game.url | prepend: site.url }}</link>
+        <pubDate>{{ game.date | date_to_rfc822 }}</pubDate>
+        {% for tag in game.tags %}
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
       </item>

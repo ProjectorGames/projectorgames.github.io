@@ -23,16 +23,16 @@ $text_size: 13px;
 
 /**
  * //////////////////////////////////
- * Project Block
+ * Game Block
  * //////////////////////////////////
  */
-.project-item.not-show{ display: none; }
+.game-item.not-show{ display: none; }
 
-.project-outer {
+.game-outer {
 
     vertical-align: top;
 
-    .project-headlines {
+    .game-headlines {
 
         @include margins(5px 0);
         @include borderbtm( #EEE );
@@ -40,9 +40,9 @@ $text_size: 13px;
 
     }
 
-    .project-inner > a { display: block; }
+    .game-inner > a { display: block; }
 
-    .project-img {
+    .game-img {
         height: 200px;
         display: block;
         @include bg( cover );
@@ -57,19 +57,19 @@ $text_size: 13px;
         &:first-child, &:last-child { margin-left: 0; }
     }
 
-    .project-footer {
+    .game-footer {
 
         clear: both;
         display: inline-block;
         width: 100%;
 
-        .project-link {
+        .game-link {
             display: inline-block;
             position: relative;
             float: left;
         }
 
-        .project-timeline {
+        .game-timeline {
 
             display: inline-block;
             position: relative;
@@ -86,7 +86,7 @@ $text_size: 13px;
 
 /**
  * //////////////////////////////////
- * Project Tags Block
+ * Game Tags Block
  * //////////////////////////////////
  */
 

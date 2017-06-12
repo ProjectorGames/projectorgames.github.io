@@ -7,7 +7,7 @@
 				selectedTags = [];
 				$('span.tag-filter').removeClass("label-primary");
 				$(this).addClass("label-primary");
-				$('.project-item').showAll();
+				$('.game-item').showAll();
 			}else{
 				if( $(this).hasClass("label-primary") ){
 					selectedTags.removeTag( $(this).data('tag') );
@@ -17,7 +17,7 @@
 					selectedTags.addTag( $(this).data('tag') );
 					$(this).addClass("label-primary");
 				}
-				$('.project-item').filterTags( selectedTags );
+				$('.game-item').filterTags( selectedTags );
 			}
 		});
 	});

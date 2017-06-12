@@ -7,9 +7,9 @@ This is a simple personal material theme, best suited for personal authors, prog
 
 #### Feature
 
-* Sitemap and XML Feed
+* Sitemap
 * Site Search 
-* Projects and tags
+* Games and tags
 * Paginations in homepage
 * Posts under category
 * Related Posts
