@@ -1,0 +1,26 @@
+title: ProjectorGames
+description: My Personal Blog
+logo: /hcz-jekyll-blog/static/img/avatar.png
+about: Indie games developers
+
+# baseurl: "https://projectorgames.github.io"
+# url: "https://projectorgames.github.io"
+
+baseurl: ""
+url: "http://localhost:4000"
+
+allowsearch: true
+
+google_analytics: UA-100855291-1
+
+share:
+  twitter_username: \#fortresscraft
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
