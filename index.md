@@ -3,15 +3,21 @@ layout: default
 title: Home
 ---
 
-### Next event
+### Our next event
  
-[Abunai 2017](http://www.abunaicon.nl/)
+## [Abunai! 2017](http://www.abunaicon.nl/)
 
-25th - 27th August
+![Abunai! 2017](public/images/abunai_banner.png "Abunai 2017, History in the making. August 25th to 27th at NH Koningshoff, Veldoven, The Netherlands")
 
-NH Veldhoven, Netherlands
+For the 14th year running we will be the biggest anime convention in The Netherlands, Abunai!.
 
-### Latest Game
+We will be there with many popular ProjectorGames including FallDown, 1942 and TowerDefense. These 32 player games are played on a big screen, and you can pick up a controller and join in at any time.
+
+If you're in The Netherlands or can get there easily, come along and join in the fun. 
+
+25th - 27th August NH Veldhoven, Netherlands
+
+### Our latest Game
 
 [Fortress Craft](/games/fortresscraft)
 
