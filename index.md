@@ -3,18 +3,34 @@ layout: default
 title: Home
 ---
 
-### Next event
+### Our next event
  
-[Abunai 2017](http://www.abunaicon.nl/)
+## [Abunai! 2017](http://www.abunaicon.nl/)
 
-25th - 27th August
+[![Abunai! 2017](static/img/abunai_banner.png "Abunai 2017, History in the making. August 25th to 27th at NH Koningshoff, Veldoven, The Netherlands")](http://www.abunaicon.nl/)
 
-NH Veldhoven, Netherlands
+For the 14th year running we will be the biggest anime convention in The Netherlands, Abunai!.
 
-### Latest Game
+We will be there with many popular ProjectorGames including FallDown, 1942 and TowerDefense. These 32 player games are played on a big screen, and you can pick up a controller and join in at any time.
 
-[Fortress Craft](/games/fortresscraft)
+If you're in The Netherlands or can get there easily, come along and join in the fun. 
+
+25th - 27th August NH Veldhoven, Netherlands
+
+### Our latest Game
+
+## [FortressCraft](/games/fortresscraft)
+
+[![FortressCraft](static/img/fortresscraft_frozenfactory_banner.png "FortressCraft: Frozen Factory")](/games/fortresscraft)
+
+The original FortressCraft was one of the best-selling Indie games of all time and in FortressCraft: Evolved we've taken it to he next level. A unique blend of Voxel Landscapes, Tower Defense, Crafting, Logistics, Exploration, Combat and Assembly Lines.
 
 ### Upcoming games
 
-[Tactics Forever](/games/tacticsforever)
+## [Tactics Forever](/games/tacticsforever)
+
+[![Tactics Forever](static/img/tacticsforever_banner.png "Tactics Forever")](/games/tacticsforever)
+
+Build your armada of physics-based spaceships and watch them get destroyed by thousands of other players across 8 platforms.
+
+Aiming for release in Autumn 2017, we are working hard give Tactics Forever the polish it deserves.

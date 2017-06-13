@@ -1,13 +1,23 @@
-# Permalinks
-permalink:        pretty
+title: ProjectorGames
+description: My Personal Blog
+logo: /hcz-jekyll-blog/static/img/avatar.png
+about: Indie games developers
 
-# Setup
-title:            Projector Games
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://projectorgames.github.io/
-baseurl:          /
+baseurl: ""
+url: "https://projectorgames.github.io"
 
+allowsearch: true
 
-# Custom vars
-version:          2.1.0
+google_analytics: UA-100855291-1
+
+share:
+  twitter_username: \#fortresscraft
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]

@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Home",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "Games",
+    "url": "/games",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "About",
+    "url": "/about/",
+    "icon": "fa-comments"
+  }
+]
