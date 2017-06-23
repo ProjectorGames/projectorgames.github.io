@@ -10,4 +10,11 @@ Several years later we broke in to the world of console gaming with FortressCraf
 
 Most recently we concentrate on releasing multliplatform games for Windows, Linux, Mac, iOS and Android, and working to continually improve these games as long as they prove popular.
 
-Company Number: 06500284
+--- 
+
+ProjectorGames Limited is registered in England & Wales
+
+Company Number 06500284
+
+VAT 125 6356 18
+    
