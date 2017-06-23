@@ -12,7 +12,7 @@ layout: default
     <div class="game-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well game-outer">
     		<div class="game-inner">
-    			<a href="/static/games/{{ i.image }}" class="thickbox">
+    			<a href="{{ i.url }}">
     			<div class="game-img bordered" style="background-image: url('/static/games/{{ i.image }}');"></div>
                 </a>
                 {% if i.url %} <a href="{{ i.url }}"> {% endif %}
