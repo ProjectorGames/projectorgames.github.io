@@ -2,16 +2,12 @@
 layout: page
 title: Tactics Forever
 ---
-[Steam](http://store.steampowered.com/app/413120/Tactics_Forever/)
-[Discord](https://discord.gg/7gCrZSV)
-
 <span class="icon-apple" />
 <span class="icon-windows" />
 <span class="icon-linux" />
-
 ---
-
-<span class="icon-steam" />
+<a href="http://store.steampowered.com/app/413120/Tactics_Forever" class="icon-steam" />
+<a href="https://discord.gg/7gCrZSV" class="icon-discord" />
 
 
 Tactics Forever is a PVP game like no other. Design spaceships from dozens of physics-based components, then send them off to battle in the cloud. Check back on your ships regularly to earn XP and unlock new parts. Examine your ship's performance, improve and evolve your ships. Redesign your ship to fight your Nemesis or earn a little extra on the side by trouncing your Victim.

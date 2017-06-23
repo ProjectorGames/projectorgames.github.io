@@ -2,16 +2,14 @@
 layout: page
 title: FortressCraft
 ---
-[Steam](http://store.steampowered.com/app/254200/FortressCraft_Evolved/)
-[Discord](https://discord.gg/fPvnrXs)
-
 <span class="icon-apple" />
 <span class="icon-windows" />
 <span class="icon-linux" />
 
 ---
 
-<span class="icon-steam" />
+<a href="http://store.steampowered.com/app/254200/FortressCraft_Evolved/" class="icon-steam" />
+<a href="https://discord.gg/fPvnrXs" class="icon-discord" />
 
 FortressCraft has undergone a radical visual alteration, completely reworking the surface, along with a brand-new rendering system. On top of that, there is an enormous amount of work to make the game more understandable and accessible for new players. The combination of these two things should work towards making it feel like a fresh, new experience. Prepare for a new exploration and survival experience!
 

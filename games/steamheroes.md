@@ -2,13 +2,9 @@
 layout: page
 title: Steam Heroes
 ---
-[Steam](http://store.steampowered.com/app/341160/Steam_Heroes/)
-
 <span class="icon-windows" />
-
 ---
-
-<span class="icon-steam" />
+<a href="http://store.steampowered.com/app/341160/Steam_Heroes/" class="icon-steam" />
 
 Help three brave adventurers on their quest to stop the diabolical Baron Von Smog’s plot to conquer Steam Land. However, there is an army of evil minions that stand in your way. Challenge yourself in this new puzzle strategy game; includes 12 action-packed stages, a full soundtrack, competitive online play, all in stunning 720p HD Graphics. It's up to you to save Steam Land!
 
